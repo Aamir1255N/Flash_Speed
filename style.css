@@ -135,7 +135,7 @@ nav .fa-bars {
   top: 0;
   z-index: 99;
   padding-top: 30%;
-  transition: 2s ease-in-out;
+  transition: 1.5s ease-in-out;
   background: #ffffff53;
   color: #000;
   backdrop-filter: blur(20px);
